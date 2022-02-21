@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+react-tutorials files:
+cd to "intro"
+    npm start 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
